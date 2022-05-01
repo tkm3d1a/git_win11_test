@@ -24,3 +24,9 @@ What about some check boxes...
 - [ ] not done yet //Fixed with space between brackets
 - [x] but this is done!
   - [x] This too!!
+
+
+### Testing of VS Code Source control module
+Lets add some more info here in the readme
+- [ ] Test a commit message
+- [ ] Test a push for success?
