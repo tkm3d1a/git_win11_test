@@ -21,6 +21,6 @@ Some __more__ text now
 Here...we...go!
 
 What about some check boxes...
-- [] not done yet
+- [ ] not done yet //Fixed with space between brackets
 - [x] but this is done!
   - [x] This too!!
