@@ -6,10 +6,10 @@
   - tabbed list
 
 1. ordered list
-1. more ordering
-1. even more!
+2. more ordering
+3. even more!
   1. now we do tabs
-  1. this is just wild bruh
+  2. this is just wild bruh
 
 ## sub heading 1
 Some __more__ text now
